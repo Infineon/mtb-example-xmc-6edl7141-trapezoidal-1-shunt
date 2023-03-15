@@ -1,0 +1,8 @@
+# Documentation
+images
+build
+
+#Project Directories
+.settings
+.vscode
+
